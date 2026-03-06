@@ -130,6 +130,6 @@ jobs:
 
           docker manifest push $REGISTRY/$REPOSITORY:$IMAGE_TAG
         env:
-          REGISTRY: ghcr.io/aptabase
+          REGISTRY: ghcr.io
           REPOSITORY: binibeno/aptabase
           IMAGE_TAG: main
