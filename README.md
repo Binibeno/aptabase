@@ -15,6 +15,10 @@
   </p>
 </div>
 
+# Fork notice
+
+This is the fork of the Aptabase project. I really needed the feature introduced in [a pull request](https://github.com/aptabase/aptabase/pull/163) by Zallist, so I forked the repo and applied the PR.
+
 # About the Project
 
 [Aptabase](https://aptabase.com) is an open-source alternative to Firebase/Google Analytics, specifically built for Mobile, Desktop and Web apps.
